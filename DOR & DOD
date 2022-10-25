@@ -1,0 +1,41 @@
+Definition Of Ready :
+
+  The Definition of Ready is a set of agreements that lets everyone know when something is ready to begin
+  e.g., when a user story is ready to be taken into a sprint, 
+  or when all necessary conditions are right for a team to start a sprint.
+  
+  Example – Definition of Ready for a Sprint:
+    - The Sprint Backlog is prioritized
+    - The Spring Backlog contains all defects, User Stories and other work that the team is committing to
+    - No hidden work
+    - All team members have calculated their capacity for the Sprint
+    - Fulltime on project = X hours per day
+    - All User Stories meet Definition of Ready
+    
+  Example – Definition of Ready for a User Story:
+    - The value of Story to the user is clearly indicated.
+    - The acceptance criteria for Story have been clearly described.
+    - User Story dependencies identified
+    - User Story sized by Delivery Team
+    - Scrum Team accepts User Experience artifacts
+    - Performance criteria identified, where appropriate
+    - Person who will accept the User Story is identified
+    - The team knows how to demo the story.
+    
+    
+    
+Definition Of Done :
+
+  The definition of done (DoD) is when all conditions, 
+  or acceptance criteria, that a software product must satisfy are met and ready to be accepted 
+  by a user, customer, team, or consuming system. 
+  
+  Example – Definition of Ready for a User Story:
+    - Unit tests passed
+    - Code reviewed
+    - Acceptance criteria met
+    - Functional tests passed
+    - Non-Functional requirements met
+    - Product Owner accepts the User Story
+  
+  
